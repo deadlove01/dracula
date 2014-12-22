@@ -1,0 +1,2 @@
+ID,Name,Type,PosX,PosY
+1,BgLevel_1,Map,105,106
